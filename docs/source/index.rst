@@ -1,5 +1,5 @@
-SETaP2026 Code Documentation Template - Use this for coursework
-===============================================================
+SETaP2026 Code Documentation Template 
+=======================================
 
 This is an example of documentation. It coveres themes such as:
 
